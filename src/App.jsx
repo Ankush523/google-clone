@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
-import Routes from './components/Routes'
+import Routes from './components/Routing'
 
 function App() {
   const [darkTheme, setDarkTheme] = useState(false)
