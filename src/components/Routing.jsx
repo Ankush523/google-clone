@@ -1,6 +1,6 @@
 import React from 'react'
 import { Routes, Route, BrowserRouter } from 'react-router-dom'
-import Results from './Results'
+import {Results} from './Results'
 import Search from './Search'
 
 const Routing = () => {
